@@ -1,5 +1,5 @@
 # Framerizacao_de_Videos
 
-[] Framerizar video
-[] Comparar imagens
-[] Excluir semelhantes
+[ ] Framerizar video
+[ ] Comparar imagens
+[ ] Excluir semelhantes
