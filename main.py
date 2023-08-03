@@ -2,8 +2,8 @@ import cv2
 import os
 
 # Read the video from specified path
-vid = cv2.VideoCapture("D:\Github\Framerizacao_de_Videos\Videos/Teste.mp4")
-interval = 10
+vid = cv2.VideoCapture("E:/Github/Framerizacao_de_Videos/Videos/4.mp4")
+interval = 50
 i = 0
 try:
 
